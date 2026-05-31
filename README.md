@@ -5,6 +5,7 @@ Projeto desenvolvido pela **Ômega Consultoria** para a FECAF Telecom com foco e
 ---
 
 Video pitch - https://www.youtube.com/watch?v=A_M3LYCm3Hg
+
 Dashboard - https://datastudio.google.com/reporting/c4612cbc-aa16-487d-a797-91e33a117072
 
 
