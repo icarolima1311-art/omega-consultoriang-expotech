@@ -130,8 +130,10 @@ Projeto desenvolvido como solução de Business Intelligence para a FECAF Teleco
 
 Equipe:
 
-- Ícaro Oliveira
-- (Adicionar integrantes)
+- Fabia Lima
+- Icaro Oliveira
+- Rhafael Marques
+  
 
 ---
 
