@@ -1,4 +1,4 @@
-# 🚀 FECAF Telecom - Business Intelligence & Governança de Dados
+# 🚀 FECAF Telecom - Business Intelligence
 
 Projeto desenvolvido pela **Ômega Consultoria** para a FECAF Telecom com foco em Governança de Dados, Business Intelligence, FinOps e Monitoramento Operacional.
 
